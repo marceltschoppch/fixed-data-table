@@ -33,6 +33,11 @@ var FILES_TO_READ = [
     path: path.join(PROJECT_ROOT, 'src/FixedDataTableCellDefault.react.js'),
     name: 'Cell',
     markdownFileName: 'CellAPI.md'
+  },
+  {
+    path: path.join(PROJECT_ROOT, 'src/FixedDataTableRowDelegate.react.js'),
+    name: 'Row',
+    markdownFileName: 'RowAPI.md'
   }
 ];
 
